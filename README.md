@@ -1,4 +1,5 @@
 📝 Project Description
+
 This project is the implementation of Task 7: Fetch and Display Data from a Public API for the Web Development Internship.
 
 It is a client-side application built using HTML, CSS, and plain JavaScript, focusing on mastering asynchronous data retrieval and dynamic content generation based on the data received.
