@@ -1,4 +1,3 @@
-User Data Fetch using Fetch API
 📝 Project Description
 This project is the implementation of Task 7: Fetch and Display Data from a Public API for the Web Development Internship.
 
@@ -34,7 +33,9 @@ Bash
 
 git clone https://github.com/Shreya2k05/ElevateLabs_Task07
 cd "C:\Users\Shreya Gupta\OneDrive\Desktop\fetch_display-data"
-Open the HTML File: Locate the index.html file and open it directly in your preferred web browser.
+Open the HTML File:
+
+Locate the index.html file and open it directly in your preferred web browser.
 
 💡 Key Takeaways (Learning Outcome)
 This task successfully reinforced the understanding of the following core web development concepts:
